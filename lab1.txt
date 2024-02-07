@@ -1,0 +1,6 @@
+#include<stdio.h>
+void main(0
+{
+printf("c program");
+getch(0;
+}
